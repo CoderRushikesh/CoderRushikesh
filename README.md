@@ -6,9 +6,9 @@ Java Backend Developer | Spring Boot | Microservices | AWS | Immediate Joiner
 
 ## About Me
 - 🔧 6 months of internship experience building production-grade systems
-- 🚀 Built PayPal payment microservice — 1,000+ daily requests on AWS EC2
+- 🚀 Built PayPal payment microservice  AWS EC2
 - 🌐 Delivered live full-stack platform for real client (Samrajya Makeover)
-- 📍 Pune / Hyderabad — Immediate Joiner
+- 📍 Pune / Solapur — Immediate Joiner
 - 📧 rushikamble462@gmail.com
 
 ---
