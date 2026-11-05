@@ -5,7 +5,7 @@ Java Backend Developer | Spring Boot | Microservices | AWS | Immediate Joiner
 ---
 
 ## About Me
-- 🔧 10+ months of internship experience building production-grade systems
+- 🔧 6 months of internship experience building production-grade systems
 - 🚀 Built PayPal payment microservice — 1,000+ daily requests on AWS EC2
 - 🌐 Delivered live full-stack platform for real client (Samrajya Makeover)
 - 📍 Pune / Hyderabad — Immediate Joiner
